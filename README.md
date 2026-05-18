@@ -22,8 +22,8 @@ Final-year master's student in Electronic Systems Design and Innovation at NTNU,
 
 - **Automated Grading & Feedback Platform ([tdt4102.idi.ntnu.no](https://tdt4102.idi.ntnu.no))** - Co-developed a custom assignment delivery and evaluation platform on an NTNU server to automate workflows for the C++ Object-Oriented Programming course at NTNU.
 - **Wind Farm Power Production Forecasting** - Developed and optimized machine learning methods to improve power production forecasts during a Machine Learning Engineer internship at [Aneo](https://www.aneo.com/).
-- **Satellite Electronics Design (Orbit NTNU)** - Designed and developed electronic systems and circuit board prototypes for CubeSats (including components for the [FramSat 1.5 satellite](https://orbitntnu.com/projects/framsat-1-5)).
-- **AI Web Chatbot** - Built a web-based conversational chatbot utilizing LangChain during a deployment cycle with Cogito NTNU.
+- **Satellite Electronics Design ([Orbit NTNU](https://orbitntnu.com/))** - Designed and developed electronic systems and circuit board prototypes for CubeSats (including components for the [FramSat 1.5 satellite](https://orbitntnu.com/projects/framsat-1-5)).
+- **AI Web Chatbot** - Built a web-based conversational chatbot utilizing LangChain during a deployment cycle with [Cogito NTNU](https://www.cogito-ntnu.no/).
 
 ## Current Work
 
