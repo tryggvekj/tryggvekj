@@ -27,7 +27,7 @@ Final-year master's student in Electronic Systems Design and Innovation at NTNU,
 
 ## Current Work
 
-- **Embedded Software Intern (SonoFit):** Working on embedded software development, modeling, and testing of ultrasound sensors and peripheral electronics.
+- **Embedded Software Intern ([SonoFit](https://www.sonofit.no/)):** Working on embedded software development, modeling, and testing of ultrasound sensors and peripheral electronics.
 - **Academic Leadership (NTNU):** Teaching Assistant for the Introduction to Machine Learning course, managing course administration, digital platforms, and coordinating a team of student assistants.
 
 ## Contact
